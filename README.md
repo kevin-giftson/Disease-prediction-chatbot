@@ -32,3 +32,9 @@ python medical_bot.py
 
 ## Note
 This chatbot provides general medical information only. Always consult healthcare professionals for specific medical advice.
+
+## Example Screenshots
+<img src="asset/medical_chatbot.png" alt="ChatBot" width="500" />
+<img src="asset/3.png" alt="image analyzer" width="500" />
+
+
