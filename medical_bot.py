@@ -4,7 +4,7 @@ from termcolor import colored
 import json
 
 # Initialize Gemini API
-API_KEY = "AIzaSyBWjOOLgLfF1IE1YR_0-G8meAUdZE8ZCco"
+API_KEY = "Your-API-Key"
 
 class UserInfo:
     def __init__(self):
